@@ -9,6 +9,10 @@ The first step on the adventure is to complete the basic coding. Our Hero found 
 
 Our hero next journeyed through the slightly scary world of [*Slack*][slack link] and [*GitHub*][github link].
 
+After getting his *stuff* together, our hero takes a short break (_6/5 to 6/9_).
+
+##### _Intermission_
+
 [basic stuff image]: http://imgur.com/HO4TbFI
 [github link]: https://github.com/fanjamer/emp-secretary
 [slack link]: https://join.slack.com/echoicbot/shared_invite/MTkzODAxNjEyMzkwLTE0OTY2OTQ2NTItMDI5MDc3ZmRmOQ
