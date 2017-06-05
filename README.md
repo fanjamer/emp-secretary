@@ -6,7 +6,7 @@ Jacob likes coding. He wanted to work on his favorite chat platform, ***DISCORD*
 He stalled for a **LONG TIME**, but ***finally*** began the bot on *June 4th, 2017*. This is where our adventure begins
 
 The first step on the adventure is to complete the basic coding. Our Hero found the zeroes and ones needed and completed the following:  
-![get commands working, default the new member role, command role requirement][basic stuff image]
+[click for the checklist][basic stuff image]
 
 Our hero next journeyed through the slightly scary world of [*Slack*][slack link] and [*GitHub*][github link].
 
