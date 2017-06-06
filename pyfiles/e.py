@@ -33,7 +33,7 @@ async def on_message(message):
 	    	if role.permissions.administrator:
 	    		await client.send_message(message.channel, 'Success!')
 	elif message.content.startswith(prefix + 'upgrade'):
-		#CONTINUE HERE!!!
+		
 
 @client.event
 async def on_member_join(member):
