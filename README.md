@@ -9,9 +9,13 @@ The first step on the adventure is to complete the basic coding. Our Hero found 
 
 Our hero next journeyed through the slightly scary world of [*Slack*][slack link] and [*GitHub*][github link].
 
-After getting his *stuff* together, our hero takes a short break (_6/5 to 6/9_).
+After getting his *stuff* together, our hero takes a short break (_6/5 to 6/6_).
 
 ##### _Intermission_
+
+##### _6/7/17_
+
+Our hero continues his journey today, hoping to complete a self-rank system.
 
 [basic stuff image]: http://imgur.com/HO4TbFI
 [github link]: https://github.com/fanjamer/emp-secretary
