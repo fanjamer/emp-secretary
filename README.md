@@ -11,11 +11,11 @@ Our hero next journeyed through the slightly scary world of [*Slack*][slack link
 
 After getting his *stuff* together, our hero takes a short break (_6/5 to 6/6_).
 
-##### _Intermission_
+##### _Intermission ended! It's summer! (For the most part) no more taking breaks!
 
-##### _6/7/17_
+Our hero continued his journey, and completed a self-ranking system.
 
-Our hero continues his journey today, hoping to complete a self-rank system.
+Now he hopes to make our bland bot buddy into a jovial music bot!
 
 [basic stuff image]: http://imgur.com/HO4TbFI
 [github link]: https://github.com/fanjamer/emp-secretary
