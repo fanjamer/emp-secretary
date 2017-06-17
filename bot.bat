@@ -1,2 +1,2 @@
-cd pyfiles
+cd pyfiles/files
 python e.py

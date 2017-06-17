@@ -1,13 +1,16 @@
 import discord
 import asyncio
+from bot import *
 
 client = discord.Client()
 
-versionNum = '0.8.29 [HOTFIX 1]'
+versionNum = '0.9 [HOTFIX 1]'
 
 prefix = "~"
 
 requested = False
+
+music_bot_run()
 
 @client.event
 async def on_ready():
